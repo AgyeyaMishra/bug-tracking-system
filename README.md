@@ -1,1 +1,1 @@
-# bug_tracking_system
+# Bug Tracking System
